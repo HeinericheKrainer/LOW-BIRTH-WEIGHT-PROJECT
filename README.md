@@ -1,8 +1,10 @@
-# LOW-BIRTH-WEIGHT-PROJECT
-Bivariate and multivariate analysis of risk factors for birthweight
-This project was completed as part of a mentorship within Adaptive Management and Research Consultants (AMREC) 
+##Project overview
+- This project was completed as part of a mentorship within Adaptive Management and Research Consultants (AMREC)
+- This involves a bivariate and multivariate analysis of risk factors for birthweight
 
-##Methods
--Exploratory data analysis
--Bivariate analysis
--Multivariate analysis
+##Tools used
+- R
+
+##Files included
+-R scripts for analysis
+-Dataset provided in csv format for low birthweight
