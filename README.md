@@ -6,5 +6,5 @@
 - R
 
 ##Files included
--R scripts for analysis
--Dataset provided in csv format for low birthweight
+- R scripts for analysis
+- Dataset provided in csv format for low birthweight
