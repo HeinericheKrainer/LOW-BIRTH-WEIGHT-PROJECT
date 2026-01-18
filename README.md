@@ -8,3 +8,4 @@
 ##Files included
 - R scripts for analysis
 - Dataset provided in csv format for low birthweight
+- A report on the analysis in pdf format
